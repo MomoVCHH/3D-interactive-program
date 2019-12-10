@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c68a55a605b774818862bf9d607b2981
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - countText: {instanceID: 0}
+  - winText: {instanceID: 0}
+  - correctClip: {fileID: 8300000, guid: 7ac977ef011df49fd959c965bbc1bd64, type: 3}
+  - wrongClip: {instanceID: 0}
+  - plusBallClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
